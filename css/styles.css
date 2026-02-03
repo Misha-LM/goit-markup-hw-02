@@ -1,0 +1,66 @@
+header a {
+    text-decoration: none;
+    color: #2e2f42;
+}
+
+header a:hover,
+header a:focus {
+    color: #404bbf;
+}
+
+.hero-button {
+    cursor: pointer;
+    background-color: #4d5ae5;
+    color: #ffffff;
+    border: none;
+}
+
+.hero-button:hover,
+.hero-button:focus {
+    background-color: #404BBF;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hero-title,
+.team-title,
+.portfolio-title {
+    text-align: center;
+}
+
+.team-item {
+    text-align: center;
+}
+
+.hero,
+.footer {
+    color: white;
+    background-color: black;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer a:hover,
+footer a:focus {
+    color: #404bbf;
+}
+
+.logo {
+    font-family: "Raleway";
+    text-decoration: none;
+}
+
+.logo-accent {
+    color: #4d5ae5;
+}
