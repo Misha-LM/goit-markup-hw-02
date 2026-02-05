@@ -1,29 +1,32 @@
-header a {
-    text-decoration: none;
-    color: #434455;
-}
-
-header a:hover,
-header a:focus {
-    color: #404bbf;
-}
-
 .header-list {
     font-style: normal;
-    color: #434455;
+    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-address {
+.contacts {
     font-style: normal;
     color: #434455;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.contacts-text,
+.header-text {
+    color: #434455;
+    text-decoration: none;
+}
+
+.contacts-text:hover,
+.contacts-text:focus,
+.header-text:hover,
+.header-text:focus {
+    color: #404bbf;
 }
 
 .hero-title {
