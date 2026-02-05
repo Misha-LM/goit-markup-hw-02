@@ -68,12 +68,15 @@ ul {
     text-align: center;
 }
 
-.team-list {
+.team {
     background-color: #f4f4fd;
 }
 
-.team-item {
+.team-list {
     text-align: center;
+}
+
+.team-item {
     background-color: #ffffff;
 }
 
@@ -83,9 +86,10 @@ ul {
     background-color: #2e2f42;
 }
 
-.footer a {
+.footer-text,
+.logo-studio {
     text-decoration: none;
-    color: #ffffff;
+    color: #F4F4FD;
 }
 
 footer a:hover,
@@ -124,7 +128,7 @@ h1 {
 h2 {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
 }
 
@@ -145,6 +149,7 @@ p {
 }
 
 .footer-text {
+    color: #f4f4fd;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
