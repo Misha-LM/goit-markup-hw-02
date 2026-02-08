@@ -9,12 +9,16 @@ body {
     background-color: #fff;
 }
 
+ul {
+    list-style: none;
+}
+
 /* #endregion */
 /* #region logo */
 .logo {
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
@@ -63,7 +67,6 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    list-style: none;
 }
 
 
@@ -113,10 +116,6 @@ body {
 
 /* #region Fatures */
 
-.features-list {
-    list-style: none;
-}
-
 .features-subtitle {
     font-weight: 500;
     font-size: 20px;
@@ -138,10 +137,6 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-}
-
-.team-list {
-    list-style: none;
 }
 
 .team-item {
@@ -171,10 +166,6 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-}
-
-.portfolio-list {
-    list-style: none;
 }
 
 .portfolio-subtitle {
